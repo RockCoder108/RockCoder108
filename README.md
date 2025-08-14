@@ -1,6 +1,6 @@
 ![logo](https://github.com/RockCoder108/RockCoder108/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm RockCoder</h1>
-<h3 align="center">A passionate Web Developer Always ready to learn</h3>
+<h3 align="center">Passionate Backend & DevOps Developer | Always curious, always learning</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,19 +10,19 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **ML**
+- 🤝 I’m looking for help with **Backend & Full Stack Projects**
 
 - 💬 Ask me about **DSA,CP,MERN**
 
-- 📫 How to reach me **shanugarg.code@gmail.com**
+- 📫 How to reach me **jain105samyak@gmail.com**
 
 - ⚡ Fun fact **I Think Ai will overtake 🤖**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatehsi89752058" height="30" width="40" /></a>
+<a href="https://x.com/Samayk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatehsi89752058" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fateh-singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fateh_singh_meena" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/samyak108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fateh_singh_meena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
